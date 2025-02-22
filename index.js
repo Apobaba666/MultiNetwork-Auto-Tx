@@ -3,6 +3,12 @@ const fs = require('fs');
 const readline = require('readline');
 const axios = require('axios');
 
+// Başlangıçta büyük harflerle renkli yazı
+console.log('\x1b[41m\x1b[37m' + 'DİPÇİ SUNAR' + '\x1b[0m');
+console.log('\x1b[42m\x1b[37m' + 'DROPPBEE AİLESİNE KATILIN' + '\x1b[0m');
+console.log('\x1b[44m\x1b[37m' + 'YAPIMCI: NAİM' + '\x1b[0m');
+console.log('\x1b[43m\x1b[37m' + 'MULTI-NETWORK CRYPTO BOT' + '\x1b[0m');
+
 const networks = {
     somnia: {
         name: 'Somnia Testnet',
