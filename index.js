@@ -178,7 +178,7 @@ async function handleFaucetClaims() {
 
 async function showMenu() {
     while (true) {
-        console.log('\n=== MULTI-NETWORK CRYPTO BOT | AIRDROP INSIDERS ===');
+        console.log('\n=== MULTI-NETWORK CRYPTO BOT | Dipçi Naim sunar ===');
         console.log('1. Generate Wallets & Claim Faucet (Somnia)');
         console.log('2. Transfer STT Tokens (Somnia)');
         console.log('3. Transfer NEX Tokens (Nexus)');
